@@ -1,7 +1,7 @@
 Habit_Tracker App
 
 
-## Technologies Used
+## Used
 1.  NodeJS
 2.  Express
 3.  EJS
